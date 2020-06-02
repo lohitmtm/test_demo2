@@ -59,7 +59,8 @@
 	<version>2.2</version>
 <configuration>  
 	<url>http://localhost:8090/manager/text</url>
-<server>TomcatServer</server>                              
+	<server>TomcatServer</server> 
+	<path>/Calculater</path>
   </configuration>
   </plugin>
         </plugins>
